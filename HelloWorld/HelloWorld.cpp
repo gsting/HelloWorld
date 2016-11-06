@@ -9,7 +9,13 @@ void func1()
 }
 
 
+void func2()
+{
+	cout << "test 22" <<endl;
+}
+
 void main()
 {
 	func1();
+	func2();
 }
